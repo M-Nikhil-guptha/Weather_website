@@ -6,7 +6,7 @@
 
  </p>
  <p align="center">
-  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
+ Home page
  </p>
 
 ## Setup
